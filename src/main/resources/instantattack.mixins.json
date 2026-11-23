@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.instantattack.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": ["MouseMixin", "MinecraftClientInvoker"],
+  "injectors": { "defaultRequire": 1 }
+}
